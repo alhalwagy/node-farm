@@ -1,8 +1,8 @@
-#Node Farm
+# Node Farm
 
 Built using node.js, html, css, javascript
 
-##To run this project
+## To run this project
 
 > npm install -save-dev
 
